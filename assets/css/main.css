@@ -85,6 +85,7 @@ input, select, textarea {
 	body {
 		background: #fff;
 		overflow: hidden;
+		text-shadow: 8px 8px 15px rgba(0, 0, 0, 0.6);
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -225,7 +226,7 @@ input, select, textarea {
 		-ms-transform: translate3d(0,0,0);
 		transform: translate3d(0,0,0);
 	/* Set background with this */
-		background: #616161;
+		background: #1D3F6F;
 		background-repeat: repeat-x;
 		height: 100%;
 		left: 0;
